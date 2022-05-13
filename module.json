@@ -3,7 +3,7 @@
   "title": "PF2e Ironclad",
   "description": "A module to implement the Ironclad class & associated options.",
   "author": "Delioth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibleCoreVersion": "9",
   "minimumCoreVersion": "9",
   "packs": [
